@@ -11,7 +11,7 @@ This is based on [Markdown Badges](https://github.com/Ileriayo/markdown-badges) 
 - <details><summary>List of Badges</summary>
     
     - [Python](#python)
-    - [Java](#pjava)
+    - [Java](#java)
     
   </details>
 
