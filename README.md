@@ -1,6 +1,8 @@
 # Frameworks, Libraries, Modules Markdown Badges
 Badges for your projects or profile, from the libraries or modules used in various programming languages.
 
+This is based on [Markdown Badges](https://github.com/Ileriayo/markdown-badges) repo, which includes more categories.
+
 # Table of contents
 
 - [Library Markdown Badges](#frameworks-libraries-modules-markdown-badges)
@@ -29,5 +31,3 @@ Badges for your projects or profile, from the libraries or modules used in vario
 | Scikit Learn | ![Scikit Learn](https://img.shields.io/badge/SCIKIT%20LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | `![Scikit Learn](https://img.shields.io/badge/SCIKIT%20LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)`|
 | SciPy        | ![SciPy](https://img.shields.io/badge/SCIPY-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) | `![SciPy](https://img.shields.io/badge/SCIPY-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)`|
 | Tensorflow   | ![Tensorflow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | `![Tensorflow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)`|
-
-
