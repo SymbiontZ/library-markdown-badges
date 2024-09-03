@@ -11,6 +11,7 @@ This is based on [Markdown Badges](https://github.com/Ileriayo/markdown-badges) 
 - <details><summary>List of Badges</summary>
     
     - [Python](#python)
+    - [Java](#pjava)
     
   </details>
 
@@ -31,3 +32,12 @@ This is based on [Markdown Badges](https://github.com/Ileriayo/markdown-badges) 
 | Scikit Learn | ![Scikit Learn](https://img.shields.io/badge/SCIKIT%20LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | `![Scikit Learn](https://img.shields.io/badge/SCIKIT%20LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)`|
 | SciPy        | ![SciPy](https://img.shields.io/badge/SCIPY-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) | `![SciPy](https://img.shields.io/badge/SCIPY-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)`|
 | Tensorflow   | ![Tensorflow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | `![Tensorflow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)`|
+
+## Java
+
+| Name         | Badge                                                               | Markdown                                    |
+|--------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| Spring       | ![Spring](https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | `![Spring](https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white)`|
+| Hibernate    | ![Hibernate](https://img.shields.io/badge/HIBERNATE-59666C?style=for-the-badge&logo=hibernate&logoColor=white) | `![Hibernate](https://img.shields.io/badge/HIBERNATE-59666C?style=for-the-badge&logo=hibernate&logoColor=white)`|
+| Maven        | ![Maven](https://img.shields.io/badge/MAVEN-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)| `![Maven](https://img.shields.io/badge/MAVEN-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)`|
+| JUnit5       | ![JUnit5](https://img.shields.io/badge/JUNIT-25A162?style=for-the-badge&logo=junit5&logoColor=white)| `![JUnit5](https://img.shields.io/badge/JUNIT-25A162?style=for-the-badge&logo=junit5&logoColor=white)`|
