@@ -29,8 +29,9 @@ This is based on [Markdown Badges](https://github.com/Ileriayo/markdown-badges) 
 | NumPy        | ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white) |`![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)`|
 | Pandas       | ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white) | `![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)`|
 | Pytorch      | ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)          | `![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)`|
-| Scikit Learn | ![Scikit Learn](https://img.shields.io/badge/SCIKIT%20LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | `![Scikit Learn](https://img.shields.io/badge/SCIKIT%20LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)`|
+| Scikit Learn | ![Scikit Learn](https://img.shields.io/badge/SCIKIT%20LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&logoSize=auto) | `![Scikit Learn](https://img.shields.io/badge/SCIKIT%20LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&logoSize=auto)`|
 | SciPy        | ![SciPy](https://img.shields.io/badge/SCIPY-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) | `![SciPy](https://img.shields.io/badge/SCIPY-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)`|
+| SQLAlchemy   | ![SQLAlchemy](https://img.shields.io/badge/SQLALCHEMY-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white&logoSize=auto) | `![SQLAlchemy](https://img.shields.io/badge/SQLALCHEMY-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white&logoSize=auto)`|
 | Tensorflow   | ![Tensorflow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | `![Tensorflow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)`|
 
 ## Java
